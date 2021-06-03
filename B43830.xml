@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right way to make money more plentiful: or, Considerations relating to the Act for preventing exportation of silver and encouraging its importation and coinage.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43830</idno><idno type="EEBO-CITATION">767620281</idno>
+  <idno type="VID">212642</idno>
+  <idno type="EEBO-PROQUEST">2240870143</idno>
+  
+            <idno type="OCLC"> 767620281</idno>
+            <idno type="OCLC">ocn 767620281</idno>
+            <idno type="STC">Wing R1511</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212642)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3024:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right way to make money more plentiful: or, Considerations relating to the Act for preventing exportation of silver and encouraging its importation and coinage.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Watts.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>MDCXC. [1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Act for Preventing Exportation of Silver and Encouraging Its Importation and Coinage --  Early works to 1800.</term>
+               <term type="topical_term">Silver --  Government policy --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Devaluation of currency --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:212642:1"/>
+            <pb facs="tcp:212642:2"/>
+            <head>The Right Way to make MONEY more Plentiful: OR, CONSIDERATIONS relating to the ACT for pre<g ref="char:EOLhyphen"/>venting Exportation of Silver, and encouraging its Importation and Coinage.</head>
+            <p>THE Coinage of Silver, and its Importation, as likewise the hindrance of its Exportation, is no way to be accomplish'd, but by fixing the Price of <hi>Sterling</hi> Silver uncoin'd, to Five Shillings the Ounce precisely, by Act of Parliament, with a Penalty of Forfeiting what Silver shall be Exposed to Sale for above that Price: And likewise by ordaining that all Coined Silver, whose Value is Five Shillings, shall want so much of an Ounce in Weight, as will amount to the Value of Four-Pence at the least, if not Six-pence; and so proportionable, for all smaller Coins; for by this means Silver Coined into Money, shall be of more Value to the Owner, than if sold to be wrought up in Plate; and that's the best way to encourage Coinage; for if Silver turn to better Account in the Mint, than in the Goldsmith's Shop, every one will be willing to convert his Plate to Money.</p>
+            <p>Of late the Goldsmiths and Refiners have raised <hi>Sterling</hi> Silver to Five and Two-pence, Five and Three-pence, and sometimes to Five and Four-pence the Ounce: Now new Five-shilling-Pieces and Half-Crowns being worth but Five Shillings the Ounce, tho good <hi>Sterling,</hi> the Working Silversmiths have chosen to melt down New Money rather than buy <hi>Sterling</hi> Plate so dear a Price, since by so doing, they save Three-pence or Four pence the Ounce, of what they must have Paid the Goldsmith and Refiner; which have been a very great abuse to the State; for 'tis well known, that in order to encourage Coinage, the King is at all the Charges of the Mint; now what can be a greater abuse and disappointment to the State, than for the King to be at ma<g ref="char:EOLhyphen"/>ny Thousands a Year Charge to Coin New Money, when it may be the Silversmiths shall melt down Half or Three Parts of what the Mint coins. I am credibly informed, That a certain Person in this City, should make his boasts upon the Passing the aft Act of General Pardon, how many Hundred Ounces of New Money him<g ref="char:EOLhyphen"/>self had melted down the Year before: At this Rate the greatest Part of the Charge the King is at in Coining, is clearly Loss. Now 'tis not one or two that are guilty of thus Defacing the King's Coin; but 'tis a general thing amongst them all, which mischief can never be prevented, except Silver be made more worth when Coined into Mony, than when sold in Bars and Ingots.</p>
+            <p>If this be not done, and a certain Value be not set upon Uncoined Silver, so that its Price may be still lower than when Coined into Money, the Mint may Coin to the Worlds end, and yet Money will be still as scarce as ever, which is one great Grievance that the Kingdom now groans under; for 'tis plain, that we have not now Coin enough in this Kingdom to drive on the Trade that is necessary to maintain its People; for if the Trade of a People, for example, amounted but to Forty Millions, and there were but Twenty Millions to carry the same on, the other Twenty must be account<g ref="char:EOLhyphen"/>ed for by Trusting; and that this is our Case, is plain by the Merchants generally giving so many Months Credit as they do when they sell their Wares. Ready Mo<g ref="char:EOLhyphen"/>ney, which is the Life and Soul of all Trade, can never be expected, unless there be as much Money in a Nation, as the Trade amounts to, and something more to sa<g ref="char:EOLhyphen"/>tisfie those whose Joys do consist in Hoarding; for this sort of Vermin will be satisfied, tho it be with the Kingdoms Ruin.</p>
+            <pb facs="tcp:212642:3"/>
+            <p> It is to be supposed, That not one Piece of our Clipp'd Money is either Melted down or Exported; and this can be from no other Reason, but because 'tis now of more Value in it self, than it will be when Melted or Exported; for no Foreign Nati<g ref="char:EOLhyphen"/>on will exchange it for more than its intrinsick Value, which is much less than its re<g ref="char:EOLhyphen"/>puted Value is; neither will any man melt it down for the same reason. Now certainly the example which by this means is afforded, is sufficient to prove light Money to be the only means of encouraging Coinage, and preventing Exportation; and 'tis a clear Proof that it can be no disadvantage to us to have the Parliament to Authorize the Coining and Passing of such light Money, since 'tis already counted no great Grievance for men in Payments to take such light Clipp'd Money by the warrant of Custom on<g ref="char:EOLhyphen"/>ly. Men may indeed lose one time of other, by what the Law thus allows not; but what the Law does authorize in this Case, no man can be a Loser by.</p>
+            <p>Besides, if Money were made lighter by Act of Parliament, and a Clause were added to Authorize the Mint to new Coin all the old Money that were found worth the melting down, into that sort of Coin now called Mill'd Money; this would for the future prevent all Clipping, since in a little time none of the Old Large Money would be left for that sort of rascally Tribe to work upon, and the New could not be so serv'd without discovery.</p>
+            <p>Moreover, if our Silver Coins were of more Value here, than the uncoin'd Silver of the same Alloy in other Nations, this would greatly encourage Importation by our Merchants, which nothing else that I know of will do so effectually; for who will be at the Pains and Charge to bring Silver hither from another Countrey, if he can make the same advantage of it where he already is.</p>
+            <p>Doubtless the scarcity of Money in <hi>England</hi> must be imputed to the goodness of the Coin, that is, to its Value and Weight being both alike; so that if Bar Silver and Plate be never so little scarce, which generally inhances the Value, then down goes all our best Money into the Melting-Pot; and the reason why <hi>Sterling</hi> uncoined Silver has of late been so scarce, is to be imputed to that extravagant Humour which at this day reigns among men of all ranks and degrees; for now among <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he lowest of the People, every Mechanick Tradesman, nay every Dunghil-Raker will be serv'd in Plate; scarce an Ale-house but serves their Customers all in Plate; every Pedling House-wise in the Town must have her Spoons, her Tankards, her Candle-Cups, and many other Houshold Utensils all of Silver.</p>
+            <p>And for the Gentry, the very Kettles, Skillets, Chasing-dishes, Piss pots, and Close-stool-Pans too must be made of Silver; uses which God and Nature did never appoint that Noble Metal for, by which means a most Prodigious Quantity of Coin hath been Melted down, and uncoin'd Silver wrought up to satisfie this cursed Piece of Lu<g ref="char:EOLhyphen"/>xury and Prodigality; a thing which our Thrifty and Noble-minded Ancestors did undoubtedly abhor.</p>
+            <p>And by this means it comes to pass that our Tin is so much neglected, for formerly our Ancestors were satisfied in being served by Vessels made of this Metal, by which means our own Native Commodity of Tin, had a quick vent among us; to the great Advantage of those Places in which it was found; but now we must have Silver in<g ref="char:EOLhyphen"/>stead of Pewter, and the poor Tinners must starve, or coin it into Farthings.</p>
+            <p>What has been said of Silver, holds good in Gold also; for what has made our <hi>En<g ref="char:EOLhyphen"/>glish</hi> Gold so scarce among us, but its goodness? for tho it has been rais'd in Price considerably, yet it is still worth more than its reputed Value: And at this day, as I have been inform'd, the Goldsmiths generally weigh all the Old Broad Gold they take or change, and if it comes by Weight but to a Penny more than its Value in Pay<g ref="char:EOLhyphen"/>ment, they melt it down for other Uses. Now had our Gold been more in Value than its Weight amounted to according to the Standard Price, it might have been as Plen<g ref="char:EOLhyphen"/>ty now, as in our Fore-fathers days: which some yet alive do well remember.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Watts.</hi> MDCXC.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
